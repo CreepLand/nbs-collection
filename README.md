@@ -10,5 +10,6 @@ To clone the repo using the command line, you will need [Git](https://git-scm.co
 ```
 git clone https://github.com/CreepLand/blockparty-nbs-music nbs-music
 ```
+Be aware: The nbs-music folder needs to be empty.
 ## Notes
 CreepLand never created those NBS files or any of the original songs, all belongs to the respective owners. This is just a compilation of NBS songs that I found on the internet.
