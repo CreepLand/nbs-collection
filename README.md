@@ -1,6 +1,5 @@
 # NBS file repo
-Used for CreepLand blockparty, but now available for everyone.
-This repo contains a lot of NBS music that you can use for plugins like GadgetsMenu, BlockParty (used in this case), etc.
+A simple collection of NBS files that you can use for plugins like GadgetsMenu, BlockParty, etc.
 ## Fork
 You can simply fork the repository clicking on the Fork button.
 ## Clone
@@ -8,7 +7,7 @@ You can download the repo in a .zip file from the Download button or using the c
 ### Using the command line to clone the repository
 To clone the repo using the command line, you will need [Git](https://git-scm.com/). Then, run the following command:
 ```
-git clone https://github.com/CreepLand/blockparty-nbs-collection nbs-collection
+git clone https://github.com/CreepLand/nbs-collection nbs-collection
 ```
 Be aware: The nbs-collection folder needs to be empty.
 ## Notes
