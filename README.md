@@ -11,4 +11,4 @@ git clone https://github.com/CreepLand/nbs-collection nbs-collection
 ```
 Be aware: The nbs-collection folder needs to be empty.
 ## Notes
-CreepLand never created those NBS files or any of the original songs, all belongs to the respective owners. This is just a collection of NBS files that I found on the internet.
+CreepLand never created those NBS files (excepting Astronomia) or any of the original songs, all belongs to the respective owners. This is just a collection of NBS files that I found on the internet.
